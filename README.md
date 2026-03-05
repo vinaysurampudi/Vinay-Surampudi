@@ -38,7 +38,6 @@ Data Visualization Techniques
 ## 📊 GitHub Stats
 
 ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaysurampudi&show_icons=true&theme=default)
-
 ---
 
 ## 🌐 Connect with Me
