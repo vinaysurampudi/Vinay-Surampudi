@@ -35,13 +35,6 @@ Data Visualization Techniques
 
 ---
 
-## 📊 GitHub Stats
-
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaysurampudi&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysurampudi&layout=compact&theme=github_dark)
----
-
 ## 🌐 Connect with Me
 
 LinkedIn: linkedin.com/in/vinaysurampudi 
