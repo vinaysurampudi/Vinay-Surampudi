@@ -38,4 +38,5 @@ Data Visualization Techniques
 ## 🌐 Connect with Me
 
 LinkedIn: linkedin.com/in/vinaysurampudi 
+
 Email: heyvinay57@gmail.com
