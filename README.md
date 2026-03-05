@@ -1,4 +1,4 @@
-# Vinay-Surampudi
+# Vinay Surampudi
 MSc Data Science and Analytics student | Python | Data Analysis | Tableau | Machine Learning
 
 
@@ -43,5 +43,5 @@ Data Visualization Techniques
 
 ## 🌐 Connect with Me
 
-LinkedIn: *linkedin.com/in/vinaysurampudi*  
+LinkedIn: linkedin.com/in/vinaysurampudi 
 Email: heyvinay57@gmail.com
